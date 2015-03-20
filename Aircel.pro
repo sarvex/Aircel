@@ -1,4 +1,4 @@
-QT += core gui network sql multimedia
+QT += core gui network sql multimedia widgets
 
 CONFIG += debug_and_release warn_on
 
